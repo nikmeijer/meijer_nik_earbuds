@@ -12,17 +12,7 @@ model-viewer {
     background: url(../images/hotspot.svg) center no-repeat;
     border: 0;
     width: 45px;
-    height: 38px;
-
-    @keyframes spin {
-        from {
-            transform: rotate(0deg);
-        }
-
-        to {
-            transform: rotate(360deg);
-        }
-    }
+    height: 45px;
 
     //display: none;
 }
